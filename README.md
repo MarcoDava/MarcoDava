@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco Dava</h1>
+<h1 align="center">Hi, I'm Marco Dava</h1>
 <h3 align="center">A passionate Software Engineer at McMaster</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
