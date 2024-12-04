@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio** 
  
-
+ 
 
 - 🌱 I’m currently learning **Front-End Development(CSS and Java Script), Data Structures and Algorithms, Digital Systems, Object-Oriented Programming, Discrete Mathematics I and II and Computer Architecture**
 
