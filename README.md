@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://www.notion.so/Marco-Dava-s-Portfolio-363915b392dd4624bbc62de23876f1df?pvs=4">my Portfolio</a>.
 <h3 align="left">Connect with me:</h3>   
 
-- 📫 How to reach me **marco.a.dava@gmail.com**
+- 📫 How to reach me **marco.a.dava@gmail.com** 
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1pSCS4UwRKZWi4VmpBzg8s6kYKo_xZ10P/view?usp=sharing">on my resume</a>. 
 <h3 align="left">Connect with me:</h3> 
