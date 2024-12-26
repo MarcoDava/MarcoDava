@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Marco Dava</h1>
 <h3 align="center">A passionate Second Year Software Engineering Student at McMaster</h3>
 
-- 🔭 I’m currently working on **Personal Portfolio**    
+- 🔭 I’m currently working on **Helping Create the Mac Creates Forum**    
  
   
 
-- 🌱 I’m currently learning **Front-End Development(CSS and Java Script), Data Structures and Algorithms, Digital Systems, Object-Oriented Programming, Discrete Mathematics I and II and Computer Architecture**
+- 🌱 I’m currently learning **Front-End Development(CSS and Java Script), Data Structures and Algorithms, Digital Systems, Object-Oriented Programming, Discrete Mathematics I and II and Computer Architecture, Basic AI Fundamentals**
 
 - 🤝 I’m looking for help with **Motion Capture AI**
 
