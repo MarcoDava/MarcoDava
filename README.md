@@ -5,7 +5,7 @@
  
   
 
-- 🌱 I’m currently learning **Front-End Development(CSS and Java Script), Data Structures and Algorithms, Digital Systems, Object-Oriented Programming, Discrete Mathematics I and II and Computer Architecture, Basic AI Fundamentals**
+- 🌱 I’m currently learning **Front-End Development(CSS and Java Script), Data Structures and Algorithms, Discrete Mathematics II and Computer Architecture, Basic AI Fundamentals**
 
 - 🤝 I’m looking for help with **Motion Capture AI**
 
