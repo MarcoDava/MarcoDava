@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marco Dava</h1>
-<h3 align="center">A passionate Second Year Software Engineering Student at McMaster</h3>
+<h3 align="center">A Second year Software engineering student that specializes in front end dev. Consistent, Disciplined, Creative and Impactful</h3>
 
 - 🔭 I’m currently working on **Helping Create the Mac Creates Forum and Website Client Work**    
  
