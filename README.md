@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Marco Dava</h1>
-<h3 align="center">A Third year Software engineering student that specializes in front end dev. Consistent, Disciplined, Creative and Impactful</h3> 
+<h3 align="center">A Third year Software engineering student that specializes in machine learning. Consistent, Disciplined, Creative and Impactful</h3> 
  
-- 🔭 I’m currently working on **Helping Create the Mac Creates Forum and Website Client Work**       
+- 🔭 I’m currently working on **Helping Create the Mac AI Society Website**       
  
   
 
-- 🌱 I’m currently learning **Front-End Development(CSS and Java Script), Data Structures and Algorithms, Discrete Mathematics II and Computer Architecture, Basic AI Fundamentals**
+- 🌱 I’m currently learning **Basic AI Fundamentals, Machine learning algorithms**
 
-- 🤝 I’m looking for help with **Motion Capture AI**
+- 🤝 I’m looking for help with **AI Reasoning**
 
 - 👨‍💻 All of my projects are available at <a href="https://marcodava.github.io/marco-portfolio/">my Portfolio</a>.
 <h3 align="left">Connect with me:</h3>   
