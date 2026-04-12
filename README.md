@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI Reasoning**
 
-- 👨‍💻 All of my projects are available at <a href="marcodava.me">my Portfolio</a>.
+- 👨‍💻 All of my projects are available at <a href="https://marcodava.me/">my Portfolio</a>.
 <h3 align="left">Connect with me:</h3>   
 
 - 📫 How to reach me **marco.a.dava@gmail.com** 
