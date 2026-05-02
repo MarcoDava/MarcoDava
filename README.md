@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcodava&" alt="marcodava" /></p>
 
-The icons are just a vertica
